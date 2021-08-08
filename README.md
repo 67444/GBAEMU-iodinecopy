@@ -1,9 +1,13 @@
 JavaScript GameBoy Advance Emulator
 =================================
 
-**Copyright (C) 2010 - 2017 Grant Galitz**
+Testing implementation of Grant Galitz' GBA JS emulator. 
 
-A GameBoy Advance emulator that utilizes HTML5 canvas and JavaScript audio APIs to provide a full emulation of the console.
+
+
+
+
+**Copyright (C) 2010 - 2017 Grant Galitz**
 
 **License:**
 
